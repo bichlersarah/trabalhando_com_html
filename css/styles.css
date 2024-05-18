@@ -1,0 +1,88 @@
+img {
+    margin: 0 0% 0px 0;
+    float:right;
+    padding: 60px;
+    width: 400px;
+    border-radius:20%;
+   
+
+    }
+
+body, ul {
+     margin: 0;
+     padding: 0;
+     color: gray;
+    
+}
+
+h1{
+    text-align:right;
+    padding: 100px;
+    font-size: 45px;
+    
+}
+
+p{
+    font-size: 15px;
+    text-align: right;
+}
+
+h2 {
+    color:rgb(83, 92, 95);
+
+}
+
+
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #f3eeeb;
+    color: rgb(83, 92, 95);
+    padding-right: 0%;
+    text-align: center;
+    width:max-content;
+}
+
+header {
+    background-color: #f6dcd7;
+    color: #f6dcd7;
+    padding: 10px;
+    text-align: right;
+}
+
+
+section {
+  width: 80%; /* Adjust width as needed */
+  margin: 0 auto; /* Remove to avoid double margin if not needed */
+  background-color: #f4ddd4;
+  padding: 20px;
+  margin: 10px 0; /* Adjust top/bottom margins as needed */
+  border-radius: 8px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  text-align: center; /* Not required for right-alignment */
+  float: right;
+}
+
+ul {
+    
+    padding: 0%;
+    display: block;
+    text-align: center;
+    margin: auto;
+    
+}
+
+li {
+    margin-bottom: 10px;
+    text-align: inherit;
+   
+}
+
+footer{
+    text-align: center;
+    padding: 10px;
+    background-color: gray;
+    color: #fff;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
